@@ -1,6 +1,0 @@
-*.txt -> 확장자가 txt로 끝나는 파일 무시
-!test.txt
-test/
-/test
-
-# git config --global init.defaultBranch main (기본값을 Main으로 사용하겠다.)
