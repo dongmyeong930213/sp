@@ -1,0 +1,7 @@
+git branch --list (브런치 목록)
+git checkout -b a (브런치 만들고 이동)
+a> echo 'aaa' > a.txt ('내용' .확장자명) 생성하기
+
+
+git branch -D a (강제로 삭제)
+
